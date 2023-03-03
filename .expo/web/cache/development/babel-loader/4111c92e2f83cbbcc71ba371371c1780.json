@@ -1,0 +1,1 @@
+{"ast":null,"code":"export default function UsersList() {}","map":{"version":3,"names":["UsersList"],"sources":["/Users/antoninmontagne/Desktop/Info/L3/S5/AppClient/tp1/components/UsersList.js"],"sourcesContent":["export default function UsersList(){\n\n    \n} "],"mappings":"AAAA,eAAe,SAASA,SAAS,GAAE,CAGnC"},"metadata":{},"sourceType":"module"}
